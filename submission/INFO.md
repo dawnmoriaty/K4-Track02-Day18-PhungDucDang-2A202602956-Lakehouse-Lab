@@ -11,3 +11,6 @@
   + Smoke test: 9/9 PASS
   + Pytest test suite: 24/24 PASS
   + Notebooks thực thi: 8/8 PASS có đầy đủ cell outputs và phân tích
+- **Phần Bonus Challenge (+10 điểm):**
+  + Tài liệu kiến trúc: `submission/bonus/ARCHITECTURE.md` (Topic A: LLM Observability 1B req/day)
+  + Mã nguồn PoC: `submission/bonus/poc/poc_llm_observability.py` (Đã pass 100%)
